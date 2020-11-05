@@ -12,4 +12,4 @@ Y ~ N(μ,σ2)
 
 
 Hasting:
-![Alt text](https://github.com/Lingfeizeng/Bayesian-analysis-by-simulation/blob/main/Screen%20Shot%202020-11-02%20at%2011.11.44%20PM.png)
+![Alt text](https://github.com/Lingfeizeng/Bayesian-analysis-by-simulation/blob/main/)
