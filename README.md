@@ -4,7 +4,7 @@
 
 Y ~ N(μ,σ2)
 
-Frequentist: μ and σ2 are fixed
-Bayesian: μ and σ2 are random variables
+**Frequentist**: μ and σ2 are fixed
+**Bayesian**: μ and σ2 are random variables
 
-Bayesian inference: to estimate the parameters of a probability distribution or statistical model
+**Bayesian inference**: to estimate the parameters of a probability distribution or statistical model
