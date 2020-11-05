@@ -9,4 +9,3 @@ Y ~ N(μ,σ2)
 
 **Bayesian inference**: to estimate the parameters of a probability distribution or statistical model
 
-
