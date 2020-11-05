@@ -1,1 +1,1 @@
-# Bayesian-analysis-by-simulation
+# Bayesian analysis by simulation
