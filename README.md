@@ -9,7 +9,7 @@ Y ~ N(μ,σ2)
 
 **Bayesian inference**: using Bayes Theroem to estimate the parameters of a probability distribution or statistical model
 
-<img src="bayes.png" alt="Bayes Theorem" width="800" hight="600"/>
+<img src="bayes.png" alt="Bayes Theorem" hight="300"/>
 
 ### Markov Chain Monte Carlo (MCMC)
 **Classical Bayesian inference**: the conjugated prior should be chosen so that the resulting posterior density can be recognised as the density of a known distribution. 
