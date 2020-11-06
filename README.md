@@ -10,7 +10,7 @@ Using Bayes Theroem to estimate the parameters of a probability distribution or 
 <img src="bayes.png" alt="Bayes Theorem" height="500"/>
 
 
-### The difference between Frequentist and Baysian**
+### The difference between Frequentist and Baysian
 
 
 Y ~ N(μ,σ2)
