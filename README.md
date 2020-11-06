@@ -43,15 +43,18 @@ where the left side is the target distribution P and the right side is Q. We can
 
 #### Specify the model
 
-<img src="specifiy_model.png"/>
+<img src="specify_model.png" height="180"/>
 
 #### Set up the model
 
-<img src="set_up_model.png" height="300"/>
+<img src="set_up_model.png" height="240"/>
 
 #### Run and post processing
 
-<img src="run_model.png" height="150"/>
+<img src="run_model.png" height="120"/>
+<img src="post_processing.png" height="400"/>
+<img src="post_processing2.png" height="500"/>
+
 
 
 
