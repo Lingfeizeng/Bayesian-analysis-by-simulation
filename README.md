@@ -21,16 +21,48 @@ Y ~ N(μ,σ2)
 
 ### Metropolis-Hastings sampling
 
+Metropolis-Hastings sampling algorithm:
+
+<img src="Metropolis-Hastings.png" alt="MCMC"/>
 
 
 **Example**
-To simulate the distribution:
+In order to produce samples from the distribution:
 
 yi | μ ~ N(μ,1)
 
 μ ~ t (0, 1, 1)
 
-<img src="Metropolis-Hastings.png" alt="MCMC"/>
+After some transformation, We will have the target distribition P is propotional to Q:
+
+<img src="distribution.png" alt="dist" height="80"/>
+
+where the left side is the target distribution P and the right side is Q. We can use Metropolis-Hastings sampling. The following code example used the popular simulation package JAGS (available both in R and Python)
+
+### Code example 
+
+#### Specify the model
+
+<img src="specifiy_model.png"/>
+
+#### Set up the model
+
+<img src="set_up_model.png" height="300"/>
+
+#### Run and post processing
+
+<img src="run_model.png" height="300"/>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
