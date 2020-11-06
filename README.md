@@ -51,7 +51,7 @@ where the left side is the target distribution P and the right side is Q. We can
 
 #### Run and post processing
 
-<img src="run_model.png" height="300"/>
+<img src="run_model.png" height="150"/>
 
 
 
