@@ -1,12 +1,13 @@
 # Bayesian analysis by simulation
 
-### Bayes Theroem
-
-<img src="bayes.png" alt="Bayes Theorem" height="500"/>
-
 **Bayesian inference**
 
 Using Bayes Theroem to estimate the parameters of a probability distribution or statistical model
+
+
+**Bayes Theroem**
+
+<img src="bayes.png" alt="Bayes Theorem" height="500"/>
 
 
 ### The difference between Frequentist and Baysian
