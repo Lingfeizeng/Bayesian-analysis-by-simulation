@@ -1,16 +1,16 @@
 # Bayesian analysis by simulation
 
-### Bayesian inference
+## Bayesian inference
 
 Using Bayes Theroem to estimate the parameters of a probability distribution or statistical model
 
 
-- *Bayes Theroem 
+### Bayes Theroem 
 
 <img src="bayes.png" alt="Bayes Theorem" height="500"/>
 
 
-**The difference between Frequentist and Baysian**
+### The difference between Frequentist and Baysian**
 
 
 Y ~ N(μ,σ2)
@@ -22,15 +22,15 @@ Y ~ N(μ,σ2)
 
 
 
-### Markov Chain Monte Carlo (MCMC)
+## Markov Chain Monte Carlo (MCMC)
 
 
-**Classical Bayesian inference**
+**Classical Bayesian inference
 
 The conjugated prior should be chosen so that the resulting posterior density can be recognised as the density of a known distribution. 
 
 
-**MCMC**
+**MCMC
 
 To approximate the posterior distribution of a parameter of interest by random sampling in a probabilistic space.
 
@@ -44,7 +44,7 @@ Metropolis-Hastings sampling algorithm:
 <img src="Metropolis-Hastings.png" alt="MCMC"/>
 
 
-**Example**
+**Example
 
 
 In order to produce samples from the distribution:
@@ -61,7 +61,7 @@ where the left side is the target distribution P and the right side is Q. We can
 
 ### Code example 
 
-#### Specify the model
+* Specify the model
 
 <img src="specify_model.png" height="180"/>
 
