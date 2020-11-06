@@ -1,20 +1,37 @@
 # Bayesian analysis by simulation
 
-### The difference between Frequentist and Baysian:
-
-Y ~ N(μ,σ2)
-
-**Frequentist**: μ and σ2 are fixed
-**Bayesian**: μ and σ2 are random variables
-
-**Bayesian inference**: using Bayes Theroem to estimate the parameters of a probability distribution or statistical model
+### Bayes Theroem
 
 <img src="bayes.png" alt="Bayes Theorem" height="500"/>
 
-### Markov Chain Monte Carlo (MCMC)
-**Classical Bayesian inference**: the conjugated prior should be chosen so that the resulting posterior density can be recognised as the density of a known distribution. 
+**Bayesian inference**
 
-**MCMC**: to approximate the posterior distribution of a parameter of interest by random sampling in a probabilistic space.
+Using Bayes Theroem to estimate the parameters of a probability distribution or statistical model
+
+
+### The difference between Frequentist and Baysian
+
+
+Y ~ N(μ,σ2)
+
+
+**Frequentist**: μ and σ2 are fixed
+
+**Bayesian**: μ and σ2 are random variables
+
+
+
+### Markov Chain Monte Carlo (MCMC)
+
+
+**Classical Bayesian inference**
+
+The conjugated prior should be chosen so that the resulting posterior density can be recognised as the density of a known distribution. 
+
+
+**MCMC**
+
+To approximate the posterior distribution of a parameter of interest by random sampling in a probabilistic space.
 
 
 <img src="mcmc.png" alt="MCMC"/>
@@ -27,6 +44,8 @@ Metropolis-Hastings sampling algorithm:
 
 
 **Example**
+
+
 In order to produce samples from the distribution:
 
 yi | μ ~ N(μ,1)
