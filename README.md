@@ -25,7 +25,7 @@ Y ~ N(μ,σ2)
 ## Markov Chain Monte Carlo (MCMC)
 
 
-**Classical Bayesian inference
+**Classical Bayesian inference**
 
 The conjugated prior should be chosen so that the resulting posterior density can be recognised as the density of a known distribution. 
 
@@ -39,7 +39,7 @@ To approximate the posterior distribution of a parameter of interest by random s
 
 ### Metropolis-Hastings sampling
 
-Metropolis-Hastings sampling algorithm:
+**Metropolis-Hastings sampling algorithm**
 
 <img src="Metropolis-Hastings.png" alt="MCMC"/>
 
@@ -53,11 +53,11 @@ yi | μ ~ N(μ,1)
 
 μ ~ t (0, 1, 1)
 
-After some transformation, We will have the target distribition P is propotional to Q:
+After some transformation, We will have the target distribition p is propotional to g:
 
 <img src="distribution.png" alt="dist" height="80"/>
 
-where the left side is the target distribution P and the right side is Q. We can use Metropolis-Hastings sampling. The following code example used the popular simulation package JAGS (available both in R and Python)
+where the left side is the target distribution p and the right side is g. We can use Metropolis-Hastings sampling. The following code example used the popular simulation package JAGS (available both in R and Python)
 
 ### Code example 
 
