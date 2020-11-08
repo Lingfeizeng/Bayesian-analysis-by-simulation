@@ -27,12 +27,12 @@ Y ~ N(μ,σ2)
 
 **Classical Bayesian inference**
 
-The conjugated prior should be chosen so that the resulting posterior density can be recognised as the density of a known distribution. 
+The evidence shown in above is also called the normalization factor, is sometimes difficult to be computed. In classical Bayesian inference, the conjugated prior should be chosen so that the resulting posterior density can be recognised as the density of a known distribution. 
 
 
 **MCMC**
 
-To approximate the posterior distribution of a parameter of interest by random sampling in a probabilistic space.
+To approximate the posterior distribution of a parameter of interest by random sampling in a probabilistic space. The “Monte Carlo” part is due to the sampling purpose and the “Markov Chain” part describes the way we obtain these samples.
 
 
 <img src="mcmc.png" alt="MCMC"/>
