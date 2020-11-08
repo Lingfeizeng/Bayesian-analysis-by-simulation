@@ -59,7 +59,7 @@ After some transformation, We will have the target distribition p is propotional
 
 where the left side is the target distribution p and the right side is g. We can use Metropolis-Hastings sampling. The following code example used the popular simulation package JAGS (available both in R and Python)
 
-### Code example 
+**Code example** 
 
 #### Specify the model
 
@@ -74,6 +74,12 @@ where the left side is the target distribution p and the right side is g. We can
 <img src="run_model.png" height="120"/>
 <img src="post_processing.png" height="400"/>
 <img src="post_processing2.png" height="500"/>
+
+
+### MCMC for linear regression
+
+<img src="lr1.png" height="40"/>
+<img src="lr2.png" height="100"/>
 
 
 
