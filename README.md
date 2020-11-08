@@ -81,6 +81,11 @@ where the left side is the target distribution p and the right side is g. We can
 <img src="lr1.png" height="40"/>
 <img src="lr2.png" height="100"/>
 
+**Code example**
+
+<img src="lr3.png" height="600"/>
+<img src="lr4.png" height="400"/>
+
 
 
 
