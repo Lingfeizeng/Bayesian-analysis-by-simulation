@@ -9,6 +9,11 @@ Using Bayes Theroem to estimate the parameters of a probability distribution or 
 
 <img src="bayes.png" alt="Bayes Theorem" height="500"/>
 
+Evidence (normalization factor):
+
+<img src="evidence.png" height="80"/>
+
+
 
 ### The difference between Frequentist and Baysian
 
@@ -95,6 +100,22 @@ Gibbs sampling is a method of sampling with multiple parameters. The idea is tha
 
 <img src="lr3.png" height="600"/>
 <img src="lr4.png" height="400"/>
+
+
+### Application
+
+**Latent Dirichlet Allocation (LDA)**
+
+w: the vector of words in the corpus;
+
+z: the vector of topics associated to these words;
+
+We want to infer z based on the observed w in a Bayesian way:
+
+<img src="lda.png" height="60"/>
+
+Reference paper: https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
+
 
 
 
