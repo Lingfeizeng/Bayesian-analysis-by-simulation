@@ -14,7 +14,6 @@ Evidence (normalization factor):
 <img src="evidence.png" height="80"/>
 
 
-
 ### The difference between Frequentist and Baysian
 
 
@@ -32,7 +31,7 @@ Y ~ N(μ,σ2)
 
 **Classical Bayesian inference**
 
-The evidence shown in above is also called the normalization factor, is sometimes difficult to be computed. In classical Bayesian inference, the conjugated prior should be chosen so that the resulting posterior density can be recognised as the density of a known distribution. 
+The conjugated prior should be chosen so that the resulting posterior density can be recognised as the density of a known distribution. 
 
 
 **MCMC**
