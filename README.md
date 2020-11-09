@@ -41,7 +41,7 @@ To approximate the posterior distribution of a parameter of interest by random s
 
 **Metropolis-Hastings sampling algorithm**
 
-<img src="Metropolis-Hastings.png" alt="MCMC"/>
+<img src="Metropolis-Hastings.png" />
 
 
 **Example**
@@ -80,6 +80,8 @@ where the left side is the target distribution p and the right side is g. We can
 Gibbs sampling is a method of sampling with multiple parameters. The idea is that we can update multiple parameters by sampling just one parameter at a time, cycling through all parameters and repeating. To perform the update for one particular parameter, we substitute in the current values of all other parameters.
 
 **Gibbs sampling algorithm**
+
+<img src="gibbs.png" />
 
 
 
