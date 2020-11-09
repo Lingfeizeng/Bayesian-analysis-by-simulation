@@ -75,6 +75,14 @@ where the left side is the target distribution p and the right side is g. We can
 <img src="post_processing.png" height="400"/>
 <img src="post_processing2.png" height="500"/>
 
+### Gibbs sampling
+
+Gibbs sampling is a method of sampling with multiple parameters. The idea is that we can update multiple parameters by sampling just one parameter at a time, cycling through all parameters and repeating. To perform the update for one particular parameter, we substitute in the current values of all other parameters.
+
+**Gibbs sampling algorithm**
+
+
+
 
 ### MCMC for linear regression
 
