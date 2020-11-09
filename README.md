@@ -35,6 +35,12 @@ The conjugated prior should be chosen so that the resulting posterior density ca
 
 <img src="prior.png" height="100"/>
 
+<img src="p1.png" height="200"/>
+
+<img src="p2.png" height="200"/>
+
+
+
 
 **MCMC**
 
@@ -116,7 +122,7 @@ z: the vector of topics associated to these words;
 
 We want to infer z based on the observed w in a Bayesian way:
 
-<img src="lda.png" height="60"/>
+<img src="lda.png" height="100"/>
 
 Reference paper: https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
 
