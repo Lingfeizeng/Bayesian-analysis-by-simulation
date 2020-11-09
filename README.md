@@ -40,7 +40,7 @@ The conjugated prior should be chosen so that the resulting posterior density ca
 
 To approximate the posterior distribution of a parameter of interest by random sampling in a probabilistic space. The “Monte Carlo” part is due to the sampling purpose and the “Markov Chain” part describes the way we obtain these samples.
 
-Markov property: the probability distribution for the next state (where I go next) only depends on the current state and not on the past states.
+Markov property: the probability distribution for the next state only depends on the current state and not on the past states.
 
 <img src="mc.png" height="30"/>
 
