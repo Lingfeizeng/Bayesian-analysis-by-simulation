@@ -33,6 +33,8 @@ Y ~ N(μ,σ2)
 
 The conjugated prior should be chosen so that the resulting posterior density can be recognised as the density of a known distribution. 
 
+<img src="prior.png" height="100"/>
+
 
 **MCMC**
 
