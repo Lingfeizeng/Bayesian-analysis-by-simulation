@@ -42,7 +42,7 @@ To approximate the posterior distribution of a parameter of interest by random s
 
 Markov property: the probability distribution for the next state (where I go next) only depends on the current state and not on the past states.
 
-<img src="mc.png" />
+<img src="mc.png" height="30"/>
 
 <img src="mcmc.png" alt="MCMC"/>
 
